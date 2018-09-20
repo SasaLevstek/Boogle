@@ -1,0 +1,37 @@
+.header{
+  justify-content: right;
+  align-items: right;
+  text-align: right;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.image {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.square {
+  width:500px;
+  height:40px;
+  text-align: center;
+  border:1.5px solid #000;
+}
+
+.button {
+    background-color: #e7e7e7; /* grey */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    align-items: center;
+}
